@@ -2,7 +2,7 @@
  Um sistema com os conceitos básicos de orientação a objeto
   (Encapsulamento, Herança e Polimorfismo) e ArrayList.
   
-[Link para UML](https://drive.google.com/file/d/1iYxjic9i-slF0SKPCu8H3xbw5Qg1sTgB/view)
+
 
 ### Alex Rogério
 
@@ -14,13 +14,11 @@ e iFilmes para os objetos funcionário e filmes respectivamente.
 
 ## OBJETIVOS
 
-Apresentar o sistema CRUD de cadastro de funcionários e filmes pelo UML(Linguagem Moderna Unificada);
+Apresentar o sistema CRUD de cadastro de clientes e filmes
 
-Utilizar dos conceitos de encapsulamento, herança, polimorfismo, relacionamento entre classes para mostrar o cadastro por adição,remoção,procura e listagem de funcionários e filmes no cinema.
+Utilizar dos conceitos de encapsulamento, herança, polimorfismo, relacionamento entre classes para mostrar o cadastro por adição,remoção,procura e listagem de clentes e filmes, séries de tv .
 
-## CÓDIGO
 
-O arquivo do código está na pasta _src_. Dentro da pasta existe duas outras pastas, src/model e src/viewCine. Onde _src/model_ está as  [classes e interfaces](https://github.com/alexrogeriodj/CRUD_JAVA_POO/tree/master/src/model) e a _src/viewCine_ está a classe principal  [_main_](https://github.com/alexrogeriodj/CRUD_JAVA_POO/tree/master/src/viewCine). 
 
-Na aba **wiki** está a explanação geral das classes, interfaces e a representação do código em UML.
+
 
