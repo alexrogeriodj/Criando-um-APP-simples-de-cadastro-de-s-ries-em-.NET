@@ -1,4 +1,4 @@
-# Sistema - POO [Ap 2]
+# Criando um APP simples de cadastro de séries em .NET
  Um sistema com os conceitos básicos de orientação a objeto
   (Encapsulamento, Herança e Polimorfismo) e ArrayList.
   
